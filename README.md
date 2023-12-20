@@ -16,5 +16,4 @@ To help you with this task you can also download the data/link and run it throug
 Draft an email (max: 500 words) with your key feedback for the team and send it to m****@codeyourfuture.io.
 
 Note that there are no right or wrong answers in this exercise. We’re interested in exploring what you would look for when assessing data, and what types of feedback you think would be important to share with the publisher.
-![image](https://github.com/Meysam-Arshadi/UNICEF-Activity-File-Albania-Analysys/assets/108950433/ea4253fa-58c5-4374-a1be-e9d59e3cb58f)
 
