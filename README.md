@@ -11,7 +11,7 @@ We would like you to:
 2.	Choose two or three feedback items 
 3.	Research what each error means and how they can be fixed
 
-To help you with this task you can also download the data/link and run it through the IATI Cove at https://iati.cove.opendataservices.coop/ for more details about the errors. Additionally, you can edit the files locally and validate your edited activities using the IATI Validator or IATI CoVE. You can also look at the IATI Standard Website for more information at https://iatistandard.org/en/iati-standard/203/activity-standard/. 
+To help you with this task you can also download the data/link and run it through the [IATI Cove](https://iati.cove.opendataservices.coop/) for more details about the errors. Additionally, you can edit the files locally and validate your edited activities using the IATI Validator or IATI CoVE. You can also look at the [IATI Standard Website](https://iatistandard.org/en/iati-standard/203/activity-standard/) for more information. 
 
 Draft an email (max: 500 words) with your key feedback for the team and send it to m****@codeyourfuture.io.
 
