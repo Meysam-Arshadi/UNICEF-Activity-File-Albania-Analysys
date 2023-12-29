@@ -1,5 +1,7 @@
-# UNICEF-Activity-File-Albania-Analysys
+# UNICEF-activity-file-Albania-analysis
 This repository pertains to a job task for the position of Data Analyst at Open Data Services Co-op. The scenario involves working with data standards.
+
+TASK:
 
 The United Nations Children’s Fund (UNICEF) has committed to publishing high-quality IATI data. They have made their activity files available through the [IATI Registr]([https://iatiregistry.org/publisher/unicef), and their content can be viewed on [d-portal](https://d-portal.org/ctrack.html#view=search&reporting_ref=XM-DAC-41122). 
 
