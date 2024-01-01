@@ -1,6 +1,8 @@
 # UNICEF-activity-file-Albania-analysis
 This repository pertains to a job task for the position of Data Analyst at Open Data Services Co-op. The scenario involves working with data standards.
 
+**For my feedback on this task, please refer to [feedback.md](https://github.com/Meysam-Arshadi/UNICEF-activity-file-Albania-analysis/blob/main/feedback.md) file on this repo**
+
 TASK:
 
 The United Nations Children’s Fund (UNICEF) has committed to publishing high-quality IATI data. They have made their activity files available through the [IATI Registr]([https://iatiregistry.org/publisher/unicef), and their content can be viewed on [d-portal](https://d-portal.org/ctrack.html#view=search&reporting_ref=XM-DAC-41122). 
@@ -19,5 +21,5 @@ Draft an email (max: 500 words) with your key feedback for the team and send it 
 
 Note that there are no right or wrong answers in this exercise. We’re interested in exploring what you would look for when assessing data, and what types of feedback you think would be important to share with the publisher.
 
-**For my feedback on this task, please refer to [feedback.md](https://github.com/Meysam-Arshadi/UNICEF-activity-file-Albania-analysis/blob/main/feedback.md) file on this repo**
+
 
