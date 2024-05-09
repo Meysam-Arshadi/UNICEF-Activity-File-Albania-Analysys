@@ -1,5 +1,5 @@
 # UNICEF-activity-file-Albania-analysis
-This repository pertains to a job task for the position of Data Analyst at Open Data Services Co-op. The scenario involves working with data standards.
+This repository relates to a task scenario involving the utilization of data standards.
 
 **For my feedback on this task, please refer to [feedback.md](https://github.com/Meysam-Arshadi/UNICEF-activity-file-Albania-analysis/blob/main/feedback.md) file on this repo**
 
