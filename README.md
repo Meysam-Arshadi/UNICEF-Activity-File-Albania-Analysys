@@ -17,9 +17,5 @@ We would like you to:
 
 To help you with this task you can also download the data/link and run it through the [IATI Cove](https://iati.cove.opendataservices.coop/) for more details about the errors. Additionally, you can edit the files locally and validate your edited activities using the IATI Validator or IATI CoVE. You can also look at the [IATI Standard Website](https://iatistandard.org/en/iati-standard/203/activity-standard/) for more information. 
 
-Draft an email (max: 500 words) with your key feedback for the team and send it to m****@codeyourfuture.io.
-
-Note that there are no right or wrong answers in this exercise. We’re interested in exploring what you would look for when assessing data, and what types of feedback you think would be important to share with the publisher.
-
 
 
